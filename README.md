@@ -1,2 +1,4 @@
 - Prob&Stat
   - MITx Understanding the World Through Data
+- ML
+  - DL from scratch
